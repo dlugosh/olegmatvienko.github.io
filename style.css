@@ -99,7 +99,18 @@ nav {
 .link-nav:hover {
     color: gold;
 }
-
+.about {
+    text-align: center;
+    list-style:square;
+    list-style-position: inside;
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+}
+li:hover {
+    color: gold;
+    background-color: black;
+}
 
 .footer{
 background:#000;
